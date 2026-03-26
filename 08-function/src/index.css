@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica neue';
+  color: black;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  padding: 10px;
+}
+
+.page1{
+  background-color: #111;
+  color: white;
+}
+
+.page2{
+  background-color: #222;
+  color: white;
+} 
+
+.page3{
+  background-color: #333;
+  color: white;
+}
